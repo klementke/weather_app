@@ -14,7 +14,8 @@ body {
     max-width: 300px;
     background: linear-gradient(145deg, #D99379, #14A6A6);
     color: #fff;
-    margin: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
     border-radius: 20px;
     padding: 20px 15px;
     text-align: center;
